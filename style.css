@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.first{
+    background-color: aquamarine;
+    text-align: center;
+}
+.first h1{
+    font-size: 1.3em;
+    font-style: italic;
+}
+.header{
+    padding-top: 20px;
+    background-color: darkslategrey;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    padding-left: 60px;
+    font-size: 1.5em;
+    color: aliceblue;
+}
+.icon{
+    color: aliceblue;
+    font-size: 2em;
+    text-align: center;
+}
+.sec-icon{
+    color: aliceblue;
+    font-size: 1.4em;
+    text-align: center;
+    padding-right: 60px;
+
+}
+.sec{
+    background-color: darkslategray;
+    height: 100vh;
+}
+.qrl-swr{
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+    font-style: italic;
+   
+    /* height: 100vh; */
+}
+.midig{
+    width: 300px;
+    color: whitesmoke;
+    font-style: italic;
+    margin-top: 60px;
+    margin-right: 60px;
+
+
+}
+.midig h1{
+    font-size: 2.8em;
+}
+.midig button{
+    background-color: aquamarine;
+    padding: 0px 80px;
+    font-size: 1.3em;
+    font-style: italic;
+
+}
+.bidix{
+    background-color:rgb(115, 247, 115);
+    padding-top: 30px; 
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    margin-left: 40px;
+    border-radius: 16px;
+
+
+}
+.icon-qrl{
+    display: flex;
+    gap: 140px;
+    justify-content: center;
+    margin-top: 40px;
+    font-style: italic;
+    margin-bottom: 7%;
+}
+.person i{
+    font-size: 3em;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    color: aliceblue;
+}
+.person h1{
+    font-size: 1.3em;
+    color: aliceblue;
+}
+/* section two */
+.third{
+    text-align: center;
+    height: 80vh;
+    padding-top: 8%;
+    
+}
+.third h1{
+    font-size: 3.4em;
+    font-style: italic;
+    color: black;
+    text-shadow: 20px 20px 30px ;
+
+}
+.sec-third{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    padding-top: 3%;
+}
+.box1{
+    width: 300px;
+    height: 450px;
+    background-color: rgb(244, 233, 233);
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
+    
+}
+.box1 h1{
+    font-size: 2em;
+}
+.box1 p{
+    padding-right: 60px;
+
+}
+.box1 img{
+    width: 300px;
+    height: 270px;
+    border-radius: 20px;
+}
